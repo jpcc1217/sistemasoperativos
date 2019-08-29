@@ -1,0 +1,7 @@
+ejecucion con GCC
+
+gcc ejercicios_procesos.c -o ejercicios_procesos -Wall
+./ejercicios_procesos
+ 
+ejemplo con varios argumentos
+./ejercicios_procesos hola mundo cruel
